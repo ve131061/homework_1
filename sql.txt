@@ -1,8 +1,0 @@
-postgres=# CREATE DATABASE mydatabase;
-CREATE DATABASE
-postgres=# CREATE USER myuser WITH ENCRYPTED PASSWORD 'qwerty';
-CREATE ROLE
-postgres=# GRANT ALL PRIVILEGES ON DATABASE mydatabase TO myuser;
-GRANT
-
-create extension if not exists pgcrypto; 
