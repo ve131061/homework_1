@@ -29,7 +29,7 @@ TABLESPACE pg_default;
 ALTER TABLE IF EXISTS public.users
     OWNER to myuser;
 
-5. Clone homework_1 repoditory from: https://github.com/ve131061/homework_1.git
+5. Clone homework_1 repoditory from: https://github.com/ve131061/homework_1.git branch master
 
 6.  cd cd <homework_1 dir>
     npm init -y
